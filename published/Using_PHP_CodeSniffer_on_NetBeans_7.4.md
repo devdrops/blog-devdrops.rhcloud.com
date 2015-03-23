@@ -1,5 +1,7 @@
 TITLE: Using PHP_CodeSniffer on NetBeans 7.4
+
 POST:
+
 In this first post, I'll share my basic experience in how to use an important tool to assure and verify your code quality.
 
 Special thanks to *Tomas Mysik* and *Adam McAuley* for their efforts on [Bugzilla](https://netbeans.org/bugzilla/) and the NetBeans PHP Mailing List, which helped me a lot on how to use these combined tools, and then create this tutorial.

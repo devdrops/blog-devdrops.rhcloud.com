@@ -1,5 +1,7 @@
 TITLE: MySQL + Windows: Command line tips
+
 POST:
+
 On this post, I'll share some handy [MySQL](http://www.mysql.com/) commands I've been through in the last months, and now they're a essential part of my daily work ~~and I'm writing them down to never forget them anymore ;-)~~.
 
 >**Important**: none of these commands below will work unless you've properly have both root access and MySQL command line tools configured on your PATH environment variable.

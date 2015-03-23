@@ -1,5 +1,7 @@
 TITLE: PHP_CodeSniffer: Creating your own Standard
+
 POST:
+
 Hi!
 
 In this post I'll show how to create your own validation standard for PHP_CodeSniffer.
